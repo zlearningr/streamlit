@@ -6,4 +6,4 @@ import os
 data = pd.read_csv('BTC_traderecords.csv')
 
 st.write(os.getcwd())
-st.write(data.head(5)
+st.write(data.head(5))
